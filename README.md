@@ -1,5 +1,5 @@
 # Face Golden Ratio API
-画像に写っている人物の顔を認識し、それぞれの項目に関する黄金比を算出し出力するAPIです。　　
+画像に写っている人物の顔を認識し、それぞれの項目に関する黄金比を算出し出力するAPIです。  　
 算出するそれぞれの項目に関しては以下の通りです。
 
 ## fWHR
@@ -26,6 +26,6 @@ fWHR（High facial width-to-height ratio）とは、顔の縦の長さと横幅�
 # 技術
 
 # 参考
-[黄金比 ～美の法則を求めて～ ](http://www.higashi-h.tym.ed.jp/course/kadai23/ougonhi.pdf)
-[PythonでdlibとOpenCVを用いてHelen datasetを学習して顔器官検出](https://qiita.com/kekeho/items/0b2d4ed5192a4c90a0ac)
-[Detect eyes, nose, lips, and jaw with dlib, OpenCV, and Python](https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/)
+[黄金比 ～美の法則を求めて～ ](http://www.higashi-h.tym.ed.jp/course/kadai23/ougonhi.pdf)   
+[PythonでdlibとOpenCVを用いてHelen datasetを学習して顔器官検出](https://qiita.com/kekeho/items/0b2d4ed5192a4c90a0ac)   
+[Detect eyes, nose, lips, and jaw with dlib, OpenCV, and Python](https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/)  
