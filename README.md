@@ -24,6 +24,11 @@ fWHR（High facial width-to-height ratio）とは、顔の縦の長さと横幅�
 
 
 # 技術
+ - OpenCV
+ - dlib
+ - Flask
+ - Heroku
+ - RakutenRapidAPI
 
 # 参考
 [黄金比 ～美の法則を求めて～ ](http://www.higashi-h.tym.ed.jp/course/kadai23/ougonhi.pdf)   
