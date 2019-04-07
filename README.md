@@ -23,6 +23,8 @@ fWHR（High facial width-to-height ratio）とは、顔の縦の長さと横幅�
 鼻下から下唇までの距離と、下唇からあご先までの距離の比率。  
 この比率が「1:1」に近いほど黄金比に近いです。
 
+<img src="images/Perfect-face.jpg" width=50%>
+
 
 # 技術
  - OpenCV
@@ -38,7 +40,7 @@ fWHR（High facial width-to-height ratio）とは、顔の縦の長さと横幅�
 $ curl -X POST -F img_file=@sample.jpg https://face-golden-ratio.herokuapp.com/show-data
 ```
 
-![]()
+<img src="images/result.png" width=50%>
 
 # 参考
 [黄金比 ～美の法則を求めて～ ](http://www.higashi-h.tym.ed.jp/course/kadai23/ougonhi.pdf)   
