@@ -1,5 +1,6 @@
 # Face Golden Ratio API
-画像に写っている人物の顔を認識し、それぞれの項目に関する黄金比を算出し出力するAPIです。      
+画像に写っている人物の顔を認識し、それぞれの項目に関する黄金比を算出し出力するAPIです。 
+APIは[こちら](https://api.rakuten.net/seven0525/api/face-golden-ratio/)に公開されているので自由にお使いください。   
 算出するそれぞれの項目に関しては以下の通りです。
 
 ## fWHR
@@ -29,6 +30,15 @@ fWHR（High facial width-to-height ratio）とは、顔の縦の長さと横幅�
  - Flask
  - Heroku
  - RakutenRapidAPI
+
+# 実行イメージ（ターミナルから使用する場合）
+以下の通りに実行してください。
+
+```
+$ curl -X POST -F img_file=@sample.jpg https://face-golden-ratio.herokuapp.com/show-data
+```
+
+![]()
 
 # 参考
 [黄金比 ～美の法則を求めて～ ](http://www.higashi-h.tym.ed.jp/course/kadai23/ougonhi.pdf)   
