@@ -28,7 +28,7 @@ fWHR（High facial width-to-height ratio）とは、顔の縦の長さと横幅�
 
 # 技術
  - OpenCV
- - dlib
+ - dlib（顔の各パーツごとの輪郭を計68点の座標で認識）
  - Flask
  - Heroku
  - RakutenRapidAPI
